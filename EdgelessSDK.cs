@@ -23,6 +23,7 @@ namespace EdgelessSDK
         
         static void Main(string[] args)
         {
+
             new Launcher().LaunchGUI();
         }
     }
