@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgelessSDK", "EdgelessSDK.csproj", "{99195BB5-3FE9-4001-A9D0-9B7C23492F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99195BB5-3FE9-4001-A9D0-9B7C23492F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99195BB5-3FE9-4001-A9D0-9B7C23492F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99195BB5-3FE9-4001-A9D0-9B7C23492F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99195BB5-3FE9-4001-A9D0-9B7C23492F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A83E310-16D0-48A5-8228-9D609EB0C3FD}
+	EndGlobalSection
+EndGlobal
